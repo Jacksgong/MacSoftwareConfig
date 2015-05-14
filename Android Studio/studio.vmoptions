@@ -1,0 +1,10 @@
+-Xms2304m 
+-Xmx2304m 
+-XX:MaxPermSize=750m 
+-XX:ReservedCodeCacheSize=512m 
+-server
+-XX:NewSize=512m 
+-XX:+UseParNewGC
+-XX:ParallelGCThreads=4
+-XX:+UseConcMarkSweepGC
+-XX:CMSInitiatingOccupancyFraction=60
