@@ -21,15 +21,17 @@ https://github.com/anson0370/alfred-numbersystem-convertor
 
 https://github.com/Jacksgong/workflows-proxy
 
-#### showIP
+#### IP Address
 
-```
-ipconfig getifaddr en0
-```
+http://cloud.dferg.us/K9MA/download
 
 #### Workflow Searcher
 
 http://hzlzh.io/
+
+#### Hash
+
+https://raw.github.com/willfarrell/alfred-hash-workflow/master/Hash.alfredworkflow
 
 ---
 
