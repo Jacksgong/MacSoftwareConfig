@@ -23,7 +23,7 @@ https://github.com/Jacksgong/workflows-proxy
 
 #### IP Address
 
-http://cloud.dferg.us/K9MA/download
+http://www.alfredforum.com/topic/11-my-ip/
 
 #### Workflow Searcher
 
@@ -38,3 +38,32 @@ https://raw.github.com/willfarrell/alfred-hash-workflow/master/Hash.alfredworkfl
 ## Workflows for developers
 
 https://github.com/willfarrell/alfred-workflows
+
+## Dash
+
+https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/
+
+## Chrome Bookmarks
+
+http://www.packal.org/workflow/chrome-bookmarks-0
+
+## Mail.app Search
+
+http://www.packal.org/workflow/mailapp-search
+
+## Color | Packal
+
+http://www.packal.org/workflow/colors
+
+## Github repos
+
+http://www.packal.org/workflow/github-repos
+
+## StackOverflow
+
+http://www.packal.org/workflow/stackoverflow-search
+
+
+## Wifi
+
+http://www.packal.org/workflow/wi-fi
