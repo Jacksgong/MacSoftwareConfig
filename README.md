@@ -10,3 +10,9 @@
 ### Custom Plugin
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+## Tools
+
+- [dryrun](https://github.com/cesarferreira/dryrun)
+- [alfi](https://github.com/cesarferreira/alfi)
+- [pidcat](https://github.com/JakeWharton/pidcat)
